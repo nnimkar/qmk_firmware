@@ -68,5 +68,3 @@ util/Win_Check_Output.txt
 secrets.tar
 id_rsa_*
 /.vs
-
-mdloader_mac\.dms
