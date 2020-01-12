@@ -1,0 +1,4 @@
+#define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_CUSTOM_ONLY_CAPS
+#define DISABLE_RGB_MATRIX_ALPHAS_MODS
+#define RGB_DISABLE_WHEN_USB_SUSPENDED true // turn off effects when suspended
+
