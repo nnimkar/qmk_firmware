@@ -15,6 +15,7 @@
  */
 #include "rev1.h"
 
+<<<<<<< HEAD
 #include "led.h"
 #include "printf.h"
 
@@ -34,3 +35,5 @@ void matrix_init_kb(void) {
 void matrix_scan_kb(void) {
 	matrix_scan_user();
 }
+=======
+>>>>>>> master

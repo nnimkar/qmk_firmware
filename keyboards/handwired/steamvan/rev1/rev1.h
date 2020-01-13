@@ -16,7 +16,10 @@
 #pragma once
 
 #include "quantum.h"
+<<<<<<< HEAD
 #include "backlight.h"
+=======
+>>>>>>> master
 
 // This a shortcut to help you visually see your layout.
 // There are a number of variations depending on the layout of your bottom row.
@@ -79,6 +82,7 @@
     { K30,   K31,   K32,   K33,  K34,   KC_NO, K36,   KC_NO, K38,   K39,   K3A,   K3B }  \
 }
 
+<<<<<<< HEAD
 // Backlighting
 extern backlight_config_t kb_backlight_config;
 extern bool kb_backlight_breathing;
@@ -88,3 +92,5 @@ void backlight_set(uint8_t level);
 bool is_breathing(void);
 void breathing_enable(void);
 void breathing_disable(void);
+=======
+>>>>>>> master

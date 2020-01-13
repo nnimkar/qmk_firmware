@@ -153,7 +153,11 @@
  * @brief   Enables the SPI subsystem.
  */
 #if !defined(HAL_USE_SPI) || defined(__DOXYGEN__)
+<<<<<<< HEAD
 #define HAL_USE_SPI                 FALSE
+=======
+#define HAL_USE_SPI                 TRUE
+>>>>>>> master
 #endif
 
 /**
