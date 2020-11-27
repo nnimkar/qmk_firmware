@@ -3,4 +3,4 @@
 #define RGB_DISABLE_WHEN_USB_SUSPENDED true // turn off effects when suspended
 
 #define UNDERGLOW_START 67
-#define TAPPING_TERM 225
+#define TAPPING_TERM 250
